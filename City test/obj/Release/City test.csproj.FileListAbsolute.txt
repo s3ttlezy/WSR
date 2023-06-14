@@ -20,3 +20,4 @@ C:\Users\wsr_arc04\Desktop\City test\City test\City test\obj\Release\City test.a
 C:\Users\wsr_arc04\Desktop\City test\City test\City test\obj\Release\City test.csproj.CopyComplete
 C:\Users\wsr_arc04\Desktop\City test\City test\City test\obj\Release\City test.exe
 C:\Users\wsr_arc04\Desktop\City test\City test\City test\obj\Release\City test.pdb
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\obj\Release\City test.csprojAssemblyReference.cache
